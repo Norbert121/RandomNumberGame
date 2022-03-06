@@ -1,0 +1,14 @@
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\bin\Debug\netcoreapp3.1\RandomNumberGame.exe
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\bin\Debug\netcoreapp3.1\RandomNumberGame.deps.json
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\bin\Debug\netcoreapp3.1\RandomNumberGame.runtimeconfig.json
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\bin\Debug\netcoreapp3.1\RandomNumberGame.runtimeconfig.dev.json
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\bin\Debug\netcoreapp3.1\RandomNumberGame.dll
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\bin\Debug\netcoreapp3.1\RandomNumberGame.pdb
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\obj\Debug\netcoreapp3.1\RandomNumberGame.csproj.AssemblyReference.cache
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\obj\Debug\netcoreapp3.1\RandomNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\obj\Debug\netcoreapp3.1\RandomNumberGame.AssemblyInfoInputs.cache
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\obj\Debug\netcoreapp3.1\RandomNumberGame.AssemblyInfo.cs
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\obj\Debug\netcoreapp3.1\RandomNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\obj\Debug\netcoreapp3.1\RandomNumberGame.dll
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\obj\Debug\netcoreapp3.1\RandomNumberGame.pdb
+C:\Users\Komputer\source\repos\RandomNumberGame\RandomNumberGame\obj\Debug\netcoreapp3.1\RandomNumberGame.genruntimeconfig.cache
